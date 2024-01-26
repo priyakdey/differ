@@ -1,7 +1,6 @@
 # Differ
 
-Differ is a text comparision tool, which helps highlight the highlight the
-differences. This a pure client side application.
+A purely client side text comparison tool.
 
 ### Disclaimer:
 
